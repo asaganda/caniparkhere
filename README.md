@@ -1,3 +1,8 @@
+Can I park here mobile app - Analyzing parking signs to prevent users from getting parking tickets and car towed
+Built using codex, openai's coding agent
+Tech stack: Expo, React Native, Codex, Openai gpt 4.1 api, typescript
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
